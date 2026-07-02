@@ -1,0 +1,29 @@
+====================================================
+Customer Churn Prediction Log
+====================================================
+
+Prediction History
+
+--------------------------------------------
+
+No predictions available.
+
+
+Later, after  making predictions, you can replace or append entries like:
+
+====================================================
+Customer Churn Prediction Log
+====================================================
+
+Prediction History
+
+--------------------------------------------
+Prediction : Churn
+Probability : 82.45%
+Risk Level : High Risk
+--------------------------------------------
+
+Prediction : No Churn
+Probability : 21.36%
+Risk Level : Low Risk
+--------------------------------------------
